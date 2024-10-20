@@ -4,6 +4,8 @@
 
 ### Calculation Collision
 
+Calculates potential collision points between two selected aircraft.
+
 For calculation collision between 2 aircraft
 
 ``` Select first aircraft -> Select second aircraft ```
@@ -22,8 +24,10 @@ Then waiting system calculate and display the collision point that two aircaft m
     <img src="data/helper/MeasureDistance.gif" alt="Calculate collision">
 </p>
 
+Measures distances between various points, including aircraft and ground locations.
 
-We provied measure distance tool, This feature can measureonly between 2 things. It can measure follows:
+>[!NOTE] 
+>This feature can measure only between 2 things. It can measure follows:
 
 **Aircraft**
 - Aircraft - Aircraft
@@ -40,4 +44,3 @@ We provied measure distance tool, This feature can measureonly between 2 things.
 - Area - Area
 - Area - Aircraft
 - Area - Symbol
-

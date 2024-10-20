@@ -16,7 +16,7 @@ closely or zoom out on the map for a broader
 perspective.
 
 >[!TIPS]
-> User can uses scroll button on mouse for Zoom-In and Zoom-Out.
+>User can uses scroll button on mouse for Zoom-In and Zoom-Out.
 
 <p align="center">
     <img src="" alt="Zoom In - Zoom Out">
@@ -61,17 +61,20 @@ Users can change the unit of measurement for coordinates of pinned locations
 </p>
 
 ## Areas and Symbols
-### Save Areas and Symbols 
+### Save Areas and Symbols
+Saves the current areas and symbols for future use
 <p align="center">
     <img src="" alt="Save areas and symbols">
 </p>
 
-### Load Areas and Symbols 
+### Load Areas and Symbols
+Loads the saved areas and symbols onto the map
 <p align="center">
     <img src="" alt="Load areas and symbols">
 </p>
 
-### Clear Areas and Symbols 
+### Clear Areas and Symbols
+Clears all areas and symbols currently displayed on the map
 <p align="center">
     <img src="" alt="Clear areas and symbols">
 </p>

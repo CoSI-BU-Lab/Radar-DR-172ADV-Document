@@ -4,11 +4,11 @@
 
 Software has provided various functions to enhance user experience in monitoring and managing aircraft. Please follow this guide for using each function:
 
-- **[Map Operation](./MapOpreationGuide.md)**
-- **[System Settings](./SystemSettingGuide.md)**
-- **[Map Settings](./MapSettingsGuide.md)**
-- **[Area Management](./AreaManagementGuide.md)**
-- **[Symbols Management](./SymbolsManagementGuide.md)**
-- **[Faking System](./FakingGuide.md)**
-- **[Measurement Tools](./MeasurementGuide.md)**
-- **[Aircraft Monitoring](./AircraftMonitoringGuide.md)**
+- **[Map Operation](FeatureGuide/MapOperationGuide.md)**
+- **[System Settings](FeatureGuide/SystemSettingGuide.md)**
+- **[Map Settings](FeatureGuide/MapSettingsGuide.md)**
+- **[Area Management](FeatureGuide/AreaManagementGuide.md)**
+- **[Symbols Management](FeatureGuide/SymbolsManagementGuide.md)**
+- **[Faking System](FeatureGuide/FakingGuide.md)**
+- **[Measurement Tools](FeatureGuide/MeasurementGuide.md)**
+- **[Aircraft Monitoring](FeatureGuide/AircraftMonitoringGuide.md)**
