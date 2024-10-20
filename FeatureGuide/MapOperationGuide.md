@@ -15,7 +15,7 @@ Allows users to zoom in on the map to view details more
 closely or zoom out on the map for a broader
 perspective.
 
->[!TIPS]
+>[!TIP]
 >User can uses scroll button on mouse for Zoom-In and Zoom-Out.
 
 <p align="center">
